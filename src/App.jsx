@@ -111,7 +111,7 @@ const CountDown = () => {
 function App() {
 
   return (
-    <Stack alignItems={"center"} spacing={2} p={1}>
+    <Stack alignItems={"center"} spacing={2}>
     <Stack alignItems={"center"} spacing={2} p={1}  style={{
       backgroundImage: 'linear-gradient(180deg, rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url("./images/Modern-Colorful-Gaming-YouTube-Channel-Art-_46_.webp")',
       backgroundSize: 'cover',
@@ -226,7 +226,7 @@ function App() {
             BÁSICO
           </Typography>
           <Typography>DE <s>R$ 47,97</s> POR APENAS</Typography>
-          <Typography variant='h2' fontWeight={600} >R$ 1,99</Typography>
+          <Typography variant='h2' fontWeight={600} >R$ 10,00</Typography>
           <Typography ></Typography>
         </Box>
 
@@ -241,7 +241,7 @@ function App() {
         </ul>
 
         <br />
-        <a >SIM! QUERO ESSA OPÇÃO</a>
+        <a href="https://biblia-tube.pay.yampi.com.br/r/9Q1CJA6SIX" >SIM! QUERO ESSA OPÇÃO</a>
         <br />
         <br />
         <br />
@@ -275,7 +275,7 @@ function App() {
             PREMIUM
           </Typography>
           <img loading="lazy" width={341} height={231} style={{ width:341, height: 231 }} src="./images/Instagram-post-para-culto-infantil-divertido-colorido-7-1-e1736473927917-1024x696.png-1.webp" alt="" />
-          <Typography fontWeight={600}>DE <s style={{ color: 'red' }}>R$ 47,97</s> POR APENAS</Typography>
+          <Typography fontWeight={600}>DE <s style={{ color: 'red' }}>R$ 197,00</s> POR APENAS</Typography>
           <Typography variant='h2' color="#12FF00" fontWeight={600} >R$ 19,97</Typography>
           <Typography></Typography>
         </Box>
@@ -317,7 +317,7 @@ function App() {
         <br />
         <br />
         <br />
-        <a className='mainBuyButton'>SIM! QUERO ESSA OPÇÃO</a>
+        <a href="https://biblia-tube.pay.yampi.com.br/r/K7QL4HKF6W" className='mainBuyButton'>SIM! QUERO ESSA OPÇÃO</a>
         <br />
         <br />
       </Stack>
