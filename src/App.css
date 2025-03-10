@@ -163,3 +163,8 @@ body {
   font-size: 0.95rem;
   line-height: 1.4;
 }
+
+img {
+  flex-shrink: 0;
+  object-fit: cover;
+}
